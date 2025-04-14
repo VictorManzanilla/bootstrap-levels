@@ -1,0 +1,167 @@
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 7px;
+  
+   box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+ 
+}
+
+.button:hover {
+  background-color: darkblue;
+}
+
+.button:active {
+  background-color: blue;
+}
+
+.primary {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+}
+.primary:hover {
+  background-color: darkblue;
+}
+
+.primary:active {
+  background-color: blue;
+}
+
+.secondary {
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+}
+.secondary:hover {
+  background-color: darkgray;
+}
+
+.secondary:active {
+  background-color: gray;
+}
+
+.success {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+}
+.secondary:hover {
+  background-color: darkgreen;
+}
+
+.secondary:active {
+  background-color: green;
+}
+
+.danger {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+}
+.danger:hover {
+  background-color: darkred;
+}
+
+.danger:active {
+  background-color: red;
+}
+
+.warning {
+  background-color: gold;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+}
+.warning:hover {
+  background-color: darkgoldenrod;
+}
+
+.warning:active {
+  background-color: gold;
+}
+
+.info {
+  background-color: cyan;
+  border: none;
+  color: white;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  box-shadow: 2rem 3rem rgba(0, 0, 0, 0.34) inset;
+}
+.info:hover {
+  background-color: darkcyan;
+}
+
+.info:active {
+  background-color: cyan;
+}
+
+
+.primary-un {
+  
+  border: 1px solid blue;
+  color: blue;
+  padding: .3rem .9rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  border-radius: 7px;
+
+  
+}
+.primary-un:hover {
+  background-color: blue;
+  color: white;
+}
